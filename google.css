@@ -3,59 +3,37 @@
 
 
 .cen {
-    margin-left: 800px;
+    margin-left: 890px;
     margin-top: 300px;
 }
-
 .pla {
-    margin-left: 700px;
+    margin-left: 750px;
     margin-top: 20px;
-    width: 450px;
+    width: 550px;
     line-height: 35px;
     text-align: left;
     border: 1px solid gainsboro; 
     }
-.pla:hover {
-    margin-left: 700px;
-    margin-top: 20px;
-    width: 450px;
-    line-height: 35px;
-    text-align: left;
-    border: 1px solid gainsboro;
-    box-shadow:  0 2px 2px 0 gainsboro;
-    cursor:text;
-    border-radius: 2px;
-    transition-property: box-shadow;
-    transition-duration: 200ms;
-    transition-timing-function: cubic-beziersteps(0.86,0,0.07,1);
-    transition-delay: 0;
-    
-    
-    }
-
 .but {
     width: 200px;
-    margin-left: 700px;
-    margin-top: 10px;
+    margin-left: 800px;
+    margin-top: 15px;
     color: dimgrey;
     background-color: whitesmoke;
     font-weight: bold;
     line-height: 2;
     position: fixed;
-    
 }
-
 .but1 {
     width: 200px;
-    margin-left: 940px;
-    margin-top: 10px;
+    margin-left: 1050px;
+    margin-top: 15px;
     color: dimgrey;
     background-color: whitesmoke;
     font-weight: bold;
     line-height: 2;
     position: fixed;
 }
-
 .but:hover {
    background-color: white;
     color: black;
@@ -65,12 +43,8 @@
     transition-duration: 200ms;
     transition-timing-function: cubic-beziersteps(0.86,0,0.07,1);
     transition-delay: 0;
- 
-    
 }
-    
-
-.but1:hover {
+    .but1:hover {
    background-color: white;
     color: black;
      box-shadow: 1px 1px 1px 1px gainsboro;
@@ -79,39 +53,32 @@
 }
 
 .som {
-    list-style: none;
-    margin-left: 740px;
-    margin-top: 50px;
-    
-     
-    }
+   list-style: none;
+    margin-left: 700px;
+    margin-top: 60px;
+   }
 
-
-
-a {
-  text-decoration-line: none;
-   
-  
-   
-}
-
- li{
+li{
   float: left;
     padding: 0 4px; 
      
 }
 
-
-.info {
-   float: left;
-    
-  
+.lm {
+    line-height: 60px;
+    padding: 0 3px;
+    margin-right: 2px;
 }
 
+a{
+    text-decoration-line: none;
+    color: #1a0dab;
+    font-size: 13px;
+}
 
-
-
-
-.lm {
-    line-height: 30px;
+a:hover{
+   text-decoration-line: underline; 
+}
+.pla:hover{
+    border-bottom: 3px solid gainsboro;
 }
