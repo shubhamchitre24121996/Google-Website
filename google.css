@@ -2,7 +2,8 @@
     margin-left: 0px;
     margin-right:0px;
     margin-bottom: 0px;
-    margin-top: 0px;
+    margin-top:0px;
+    
 }
 
 
@@ -10,19 +11,22 @@
 .cen {
     margin-left: 890px;
     margin-top: 300px;
+    position: fixed;
+   
 }
 .pla {
     margin-left: 750px;
-    margin-top: 20px;
+    margin-top: 400px;
     width: 550px;
     line-height: 35px;
     text-align: left;
     border: 1px solid gainsboro; 
+    position: fixed;
     }
 .but {
     width: 200px;
     margin-left: 800px;
-    margin-top: 15px;
+    margin-top: 450px;
     color: dimgrey;
     background-color: whitesmoke;
     font-weight: bold;
@@ -32,7 +36,7 @@
 .but1 {
     width: 200px;
     margin-left: 1050px;
-    margin-top: 15px;
+    margin-top: 450px;
     color: dimgrey;
     background-color: whitesmoke;
     font-weight: bold;
@@ -60,7 +64,7 @@
 .som {
    list-style: none;
     margin-left: 700px;
-    margin-top: 60px;
+    margin-top: 500px;
     position: fixed;
    }
 
@@ -74,6 +78,7 @@ li{
     line-height: 60px;
     padding: 0 3px;
     margin-right: 2px;
+    margin-bottom: 100px;
 }
 
 a{
@@ -100,7 +105,7 @@ a:hover{
 
 
 .ip {
-    margin-top: 430px;
+    margin-top: 870px;
     font-size: 15px;
     color: rgba(0,0,0,.54);
     background-color: #f2f2f2;
@@ -110,6 +115,7 @@ a:hover{
     line-height: 2;
     padding-left: 30px;
     cursor:text;
+    
     
     
     
@@ -151,3 +157,48 @@ a:hover{
 
 
 
+
+.new {
+    list-style: none;
+    margin-left: 1600px;
+    vertical-align: text-top;
+    margin-top: px;
+    position:fixed;
+    margin-top: 20px;
+    }
+
+.imk {
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.u {
+    color: white;
+    background-color: grey;
+    border-radius: 25px 19px 25px 25px;
+    margin-bottom: 20px;
+    width: 35px;
+}
+
+.nbn {
+    border-radius: 25px 25px 25px 25px;
+    width:40px;
+    
+    margin-bottom: 20px;
+}
+
+
+
+
+.lkl {
+   
+    
+}
+
+.121 {
+    background-color: gray;
+}
+
+.kjk {
+    color: red;
+}
