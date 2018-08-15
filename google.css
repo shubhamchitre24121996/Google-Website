@@ -1,4 +1,9 @@
-
+*{
+    margin-left: 0px;
+    margin-right:0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
 
 
 
@@ -56,6 +61,7 @@
    list-style: none;
     margin-left: 700px;
     margin-top: 60px;
+    position: fixed;
    }
 
 li{
@@ -74,6 +80,7 @@ a{
     text-decoration-line: none;
     color: #1a0dab;
     font-size: 13px;
+   
 }
 
 a:hover{
@@ -82,3 +89,65 @@ a:hover{
 .pla:hover{
     border-bottom: 3px solid gainsboro;
 }
+.5 {
+    width: 20px;
+}
+
+.0 {
+ margin-top: 300px;
+}
+
+
+
+.ip {
+    margin-top: 430px;
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+    background-color: #f2f2f2;
+    height: 40px;
+    border-top: 2px solid #e4e4e4;
+    border-bottom: 2px solid #e4e4e4;
+    line-height: 2;
+    padding-left: 30px;
+    cursor:text;
+    
+    
+    
+    
+}
+
+.im {
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+    background-color: #f2f2f2;
+    height: 40px;;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    line-height: 2;
+    list-style: none;
+   
+   
+    
+    
+}
+
+.ip:hover{
+    text-decoration-line: none;
+}
+
+
+
+
+.ad {
+    padding-right: 20px;
+    
+    
+}
+
+.ad1 {
+    float: right;
+    padding-right: 20px;
+}
+
+
+
