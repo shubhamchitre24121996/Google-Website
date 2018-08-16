@@ -131,11 +131,7 @@ a:hover{
     border-bottom: 1px solid #f2f2f2;
     line-height: 2;
     list-style: none;
-   
-   
-    
-    
-}
+   }
 
 .ip:hover{
     text-decoration-line: none;
@@ -165,6 +161,8 @@ a:hover{
     margin-top: px;
     position:fixed;
     margin-top: 20px;
+    line-height: 1;
+    
     }
 
 .imk {
@@ -183,22 +181,48 @@ a:hover{
 .nbn {
     border-radius: 25px 25px 25px 25px;
     width:40px;
-    
     margin-bottom: 20px;
 }
 
 
 
 
-.lkl {
-   
-    
-}
+
 
 .121 {
     background-color: gray;
+    
 }
 
 .kjk {
     color: red;
 }
+
+
+
+
+
+.lp {
+    margin-right: 24px;
+}
+
+.ll {
+    margin-right: 24px;
+}
+
+.mm {
+    margin-right: 9px;
+}
+
+.lkl{
+    background-color: grey;
+    border-radius: 250px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.lkl:hover,.lkl:focus-within{
+    cursor:pointer;
+    background-color: rgba(0,0,0,.85);
+    
+    }
