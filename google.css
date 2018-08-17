@@ -164,6 +164,8 @@ a:hover{
     position:fixed;
     margin-top: 20px;
     line-height: 1;
+    color: gray;
+    font-size: 20px;
     
     }
 
@@ -210,10 +212,12 @@ a:hover{
 
 .ll {
     margin-right: 24px;
+    
 }
 
 .mm {
     margin-right: 9px;
+    color: grey;
 }
 
 .lkl{
@@ -232,4 +236,9 @@ a:hover{
 .ddd {
     color:grey;
     font-size: 15px;
+}
+
+.mm:hover{
+    color: black;
+    
 }
